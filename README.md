@@ -14,5 +14,5 @@ I am an AI/ML Consultant at Government of India, MS in CS graduate from The Univ
 - 💬 Ask me about Python, Deep Learning, Machine Learning, Graduate Life as an F-1 Visa candidate
 - 📫 How to reach me: shagun.paul0402@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In December 1989, Python’s creator Guido Van Rossum was looking for a hobby project to keep him occupied in the week around Christmas. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers. He chose to call it Python.
+- ⚡ Fun fact: Python’s creator Guido Van Rossum was looking for a hobby project to keep him occupied in the week around Christmas. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers. He chose to call it Python.
 
