@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Shagun Paul Singhal  
 
-**AI/ML Engineer | LLM Systems | Reliability in Generative AI**  
 
 I build **LLM-driven systems that work in production** — not just demos.  
 My focus is on **reasoning accuracy, failure detection, and system reliability** in real-world AI pipelines.  
