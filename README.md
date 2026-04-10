@@ -1,18 +1,60 @@
-### Hi there 👋, My name is Shagun Paul Singhal
+### Hi there 👋 I'm Shagun Paul Singhal  
 
-<!--
-**Shagun0402/Shagun0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer | LLM Systems | Reliability in Generative AI**  
 
-Here are some ideas to get you started:
--->
-I am an AI/ML Consultant at Government of India, MS in CS graduate from The University of Texas at Arlington.
+I build **LLM-driven systems that work in production** — not just demos.  
+My focus is on **reasoning accuracy, failure detection, and system reliability** in real-world AI pipelines.  
 
-- 🔭 I’m currently working on: Audio-to-Text Conversion using Generative AI
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on Deep Learning and LLM projects
-- 🤔 I’m looking for help with AudioML techniques
-- 💬 Ask me about Python, Deep Learning, Machine Learning, Graduate Life as an F-1 Visa candidate
-- 📫 How to reach me: shagun.paul0402@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Python’s creator Guido Van Rossum was looking for a hobby project to keep him occupied in the week around Christmas. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers. He chose to call it Python.
+Currently working as an AI/ML Engineer with Xansr Media, with a background in MS CS from UT Arlington.
 
+---
+
+🔭 **What I’m building right now**  
+- LLM-powered **NL2SQL and structured reasoning systems**  
+- **Failure detection + semantic validation layers** for AI outputs  
+- Event-driven pipelines for **real-time decisioning systems**  
+- Audio → Text pipelines using Generative AI  
+
+---
+
+🌱 **What I’m going deep into**  
+- Context-aware RAG systems (beyond naive retrieval)  
+- LLM evaluation, hallucination detection, and observability  
+- System design for **agentic and multi-stage AI pipelines**  
+
+---
+
+👯 **Open to collaborate on**  
+- Next-gen **RAG architectures**  
+- LLM reliability / eval frameworks  
+- Applied ML systems that need to scale beyond prototypes  
+
+---
+
+🤔 **Currently exploring / need help with**  
+- Advanced AudioML & speech modeling  
+- Efficient large-scale inference + caching strategies  
+
+---
+
+💬 **Ask me about**  
+- Building production-grade LLM systems  
+- Debugging “silent failures” in AI pipelines  
+- Python, Deep Learning, System Design  
+- MS CS + F-1 journey  
+
+---
+
+📫 **Reach me at**  
+- shagun.paul0402@gmail.com  
+
+---
+
+😄 **Pronouns**  
+- She/Her  
+
+---
+
+⚡ **Fun fact**  
+Most LLM systems don’t fail loudly — they fail *silently*.  
+That’s exactly the problem I like solving.
